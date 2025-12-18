@@ -1,0 +1,17 @@
+README.md
+setup.py
+OneD_SDD/OneD_SDD.py
+OneD_SDD/__init__.py
+OneD_SDD/bulk_equations.py
+OneD_SDD/bulk_parameters.py
+OneD_SDD/interface_equations.py
+OneD_SDD/interface_parameters.py
+OneD_SDD/physical_constants.py
+OneD_SDD/rashba_BCs.py
+OneD_SDD/rashba_perturb_BCs.py
+OneD_SDD.egg-info/PKG-INFO
+OneD_SDD.egg-info/SOURCES.txt
+OneD_SDD.egg-info/dependency_links.txt
+OneD_SDD.egg-info/requires.txt
+OneD_SDD.egg-info/top_level.txt
+OneD_SDD/quadrature_points/lebedev_053.txt
